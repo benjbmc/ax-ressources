@@ -63,10 +63,11 @@ Ressources &amp; links for web accessibility #AX #D7AX #RGAA #ARIA #A11Y
   + [Creating accessible themes] (https://www.drupal.org/node/464472)
   + [Designing Accessibility Into Themes (PDF)] (http://www.d7ux.org/docs/DesigningAccessibilityIntoThemes.pdf)
   + ["Web Accessibility and Drupal", by Alban Bailly] (https://www.zivtech.com/blog/web-accessibility-and-drupal)
-  + [Web Experience Toolkit: "web content management system which assists in building and maintaining innovative Web sites that are accessible, usable, and interoperable"] (https://www.drupal.org/project/wetkit)
-  	+ (https://github.com/wet-boew/wet-boew-drupal)
-  	+ (http://www.responsinator.com/?url=demo.drupalwxt.org)
-  	+ (http://drupalwxt.github.io/)
+  + Web Experience Toolkit, "web content management system which assists in building and maintaining innovative Web sites that are accessible, usable, and interoperable" :
+  	+ [summary page] (http://drupalwxt.github.io/)
+  	+ [the Drupal module] (https://www.drupal.org/project/wetkit)
+  	+ [demo online for mobile screen] (http://www.responsinator.com/?url=demo.drupalwxt.org)
+  	+ [github] (https://github.com/wet-boew/wet-boew-drupal)
   + Helpful modules
 	+ [Accessibility (a11y) Checklist] (https://www.drupal.org/project/a11y_checklist)
 	+ [Text Size] (https://www.drupal.org/project/textsize)
