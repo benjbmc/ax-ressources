@@ -24,7 +24,6 @@ Ressources &amp; links for web accessibility #AX #D7AX #RGAA #ARIA #A11Y
   + [Référentiel AccessiWeb HTML5/ARIA] (http://accessiweb.org/index.php/accessiweb-html5aria-liste-deployee.html)
   + Composants
     + [Carrousel] (http://a11y.nicolas-hoffmann.net/carrousel/)
-	+ 
 	
 + Tools
   + [WAVE Evaluation Tool] (http://wave.webaim.org/)
@@ -64,6 +63,10 @@ Ressources &amp; links for web accessibility #AX #D7AX #RGAA #ARIA #A11Y
   + [Creating accessible themes] (https://www.drupal.org/node/464472)
   + [Designing Accessibility Into Themes (PDF)] (http://www.d7ux.org/docs/DesigningAccessibilityIntoThemes.pdf)
   + ["Web Accessibility and Drupal", by Alban Bailly] (https://www.zivtech.com/blog/web-accessibility-and-drupal)
+  + [Web Experience Toolkit: "web content management system which assists in building and maintaining innovative Web sites that are accessible, usable, and interoperable"] (https://www.drupal.org/project/wetkit)
+  	+ (https://github.com/wet-boew/wet-boew-drupal)
+  	+ (http://www.responsinator.com/?url=demo.drupalwxt.org)
+  	+ (http://drupalwxt.github.io/)
   + Helpful modules
 	+ [Accessibility (a11y) Checklist] (https://www.drupal.org/project/a11y_checklist)
 	+ [Text Size] (https://www.drupal.org/project/textsize)
@@ -77,8 +80,8 @@ Ressources &amp; links for web accessibility #AX #D7AX #RGAA #ARIA #A11Y
   + [jquery-a11y Google group] (https://groups.google.com/forum/#!forum/jquery-a11y)
   + Twitter
     + [Accessible à tous] (https://twitter.com/accessibleatous)
-	+ [Access42] (https://twitter.com/access42net)
-	+ [Temesis] (https://twitter.com/temesis)
-	+ [NV Access] (https://twitter.com/nvAccess)
- 
+    + [Access42] (https://twitter.com/access42net)
+    + [Temesis] (https://twitter.com/temesis)
+    + [NV Access] (https://twitter.com/nvAccess)
+    + [Web Experience Toolkit (Drupal)] (https://twitter.com/WebExpToolkit)
 
