@@ -1,4 +1,4 @@
-# ax-ressources
+## ax-ressources
 Ressources &amp; links for web accessibility #AX #D7AX #RGAA #ARIA #A11Y
 
 + Official docs FR
@@ -10,7 +10,7 @@ Ressources &amp; links for web accessibility #AX #D7AX #RGAA #ARIA #A11Y
 	    + [Guide d'accompagnement] (https://references.modernisation.gouv.fr/sites/default/files/guide_accompagnement_rgaa3.0.pdf)
 	    + [Référentiel technique (PDF)] (http://references.modernisation.gouv.fr/sites/default/files/referentiel_technique_rgaa3.0.pdf)
 	    + [Rapport d'audit (PDF)] (http://references.modernisation.gouv.fr/sites/default/files/rgaa3.0-rapportdaudit.pdf)
-	    + [Kit d'audit](http://references.modernisation.gouv.fr/kit-daudit-modeles-pour-faire-des-audits-rgaa-3)
+	    + [Kit d'audit] (http://references.modernisation.gouv.fr/kit-daudit-modeles-pour-faire-des-audits-rgaa-3)
 	
 + Ressources FR
     + [Compte github DISIC = Direction Interministérielle des Systèmes d'Information et de Communication] (https://github.com/DISIC)
